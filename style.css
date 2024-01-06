@@ -31,13 +31,41 @@ label{
     background-color: aquamarine;
     color: yellowgreen;
 }
-p{
+/* p{
     color: rgba(247,244,244,0.811);
     font-family: verdana;
     font-size: medium;
     position: absolute;
     left: 26.6cm;
     top: 1.8cm;
+} */
+p{
+    position: absolute;
+    left: 24cm;
+    top: 11.8cm;
+    
+}
+#gg{
+    color: rgb(83, 83, 248);
+}
+.ff{
+    position: absolute;
+    left: 8.7cm;
+
+}
+#ff{
+    position: absolute;
+    top: 8.05cm;
+}
+#ss{
+    position: absolute;
+    top: 9.4cm;
+    left: 7.7cm;
+}
+#tt{
+    position: absolute;
+    top:11.2cm;
+    left: 6.3cm;
 }
 .form{
     position: absolute;
